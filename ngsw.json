@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1660882327979,
+  "timestamp": 1660883092367,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -20,13 +20,13 @@
         "/577.533aea6a830a2c68.js",
         "/756.05530e09c1773e62.js",
         "/883.dd8b290f48e62b7f.js",
-        "/890.201b3f8ec2d2f8c5.js",
-        "/917.7404e18ba410544e.js",
+        "/890.fab4d39ce67f962a.js",
+        "/917.1546eada66903d08.js",
         "/index.html",
         "/main.4e7d40fef6baf1bb.js",
         "/manifest.webmanifest",
         "/polyfills.297d62a17127de3a.js",
-        "/runtime.68ed300b220a1249.js",
+        "/runtime.1b88478d76eef37c.js",
         "/styles.7ac4aec24653791b.css"
       ],
       "patterns": []
@@ -175,8 +175,8 @@
     "/577.533aea6a830a2c68.js": "2e3efb54236dd54d39fa5b7e5ad396cb6f473b0b",
     "/756.05530e09c1773e62.js": "fd0f480045278809e8e384ab49895688d65de3b9",
     "/883.dd8b290f48e62b7f.js": "14a8d1ea0aa9e90903bcaf5fb01e459ebd7ac31e",
-    "/890.201b3f8ec2d2f8c5.js": "82babfc1d4fe1b6083e6308723cb8f4066f4fa27",
-    "/917.7404e18ba410544e.js": "0797efcf90f516b973bdadf73fd790767b2bbd42",
+    "/890.fab4d39ce67f962a.js": "afcfb4459815639d1ea1473fd4ea6c9df843f089",
+    "/917.1546eada66903d08.js": "3bec8534156796ffa1634a6cff2140350baf0e7e",
     "/assets/data/cities.json": "bf6696e8e2587cc795a5824ad2995beea380e1ad",
     "/assets/data/domains.json": "51aa32e50f4535dffcc5543332dac62fad2f159b",
     "/assets/data/salary-freqs.json": "0cdc18007446e1642cbd61735ac46aa442180786",
@@ -298,11 +298,11 @@
     "/assets/styles/splash-screen.css": "f91f2f60dd724b16c397755b0183ea6f35b2e90a",
     "/favicon-16x16.png": "939fd6970d90c73031f0d75a1c9db7c25cb45e02",
     "/favicon-32x32.png": "effd34fbb4d1cb18eee2af371ea7f7c2ad3c688f",
-    "/index.html": "181871a71c2bfaf1085782223eeeaa682765c220",
+    "/index.html": "0ff72abdeed31731da08f0118a7e1c915a33aa59",
     "/main.4e7d40fef6baf1bb.js": "11d0bc751cc628813b7d69105370d07d71762b9f",
     "/manifest.webmanifest": "8c2d2cdc23b27b1e1d6f65083052c23f76bc05eb",
     "/polyfills.297d62a17127de3a.js": "22150417d62046fd01b3604d7dbfefd4ab15906e",
-    "/runtime.68ed300b220a1249.js": "c923f97a81537aa59d979af39b29668c1f4c8848",
+    "/runtime.1b88478d76eef37c.js": "d21993be3c3c1e5eab1cbe1b7e99c3a9230dc7f9",
     "/styles.7ac4aec24653791b.css": "3a0819494febb0df42307a2e47f4a4a114e18a08"
   },
   "navigationUrls": [
