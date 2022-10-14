@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1665782389171,
+  "timestamp": 1665783657443,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -32,6 +32,7 @@
         "/955.b895bf1a4857e1ee.js",
         "/957.5df87128758b943a.js",
         "/common.e5cd01ea9d6beaf7.js",
+        "/favicon.ico",
         "/index.html",
         "/main.45bfda489277f8bb.js",
         "/manifest.webmanifest",
@@ -314,6 +315,7 @@
     "/assets/images/ui/angular-material/scenes/tree.scene.png": "56b50c4e5dd9862f908a098c31b39452ba7eb601",
     "/assets/styles/splash-screen.css": "d46f1196329796cbf3f085d7ae34dfaf9375fe34",
     "/common.e5cd01ea9d6beaf7.js": "499632209c11539c2e455b769cd88839ebc8a30e",
+    "/favicon.ico": "effd34fbb4d1cb18eee2af371ea7f7c2ad3c688f",
     "/index.html": "9e5647af783572227205293700f6fa32e82f08c8",
     "/main.45bfda489277f8bb.js": "5cc5d86ef17659b1602f5793731be90fedfdb493",
     "/manifest.webmanifest": "1828ef648960d939fb6e55ac9cee63ac55019301",
