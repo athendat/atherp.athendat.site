@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1673542406065,
+  "timestamp": 1673804454624,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -11,7 +11,7 @@
         "ignoreVary": true
       },
       "urls": [
-        "/113.f2a063a90fac7bbd.js",
+        "/113.9c18d2579006851d.js",
         "/250.52ca5f57acb0321d.js",
         "/268.b60ebfda6625c79b.js",
         "/291.8cd4aef7225f22cb.js",
@@ -29,7 +29,7 @@
         "/883.b2c62cf77f5e8969.js",
         "/890.8ce1b4ed94c2ad04.js",
         "/917.9e69fbe9e8f67790.js",
-        "/928.2b8c2017c1b2f03a.js",
+        "/928.3c1512aeb1e0bb25.js",
         "/941.249b6d9fc0cb8cd8.js",
         "/955.3be68c3194645d55.js",
         "/957.696b452bd670a901.js",
@@ -39,8 +39,8 @@
         "/main.c9e0510732b76d1e.js",
         "/manifest.webmanifest",
         "/polyfills.297d62a17127de3a.js",
-        "/runtime.2943c98d39bbf358.js",
-        "/styles.03c8aeefd7a6cbc0.css"
+        "/runtime.06f5f198561aa743.js",
+        "/styles.62ee2fd68e28f271.css"
       ],
       "patterns": []
     },
@@ -123,6 +123,11 @@
         "/assets/images/avatars/male-18.jpg",
         "/assets/images/avatars/male-19.jpg",
         "/assets/images/avatars/male-20.jpg",
+        "/assets/images/catalogue/Logo.png",
+        "/assets/images/catalogue/Negocio.jpg",
+        "/assets/images/catalogue/NotFound.png",
+        "/assets/images/catalogue/Producto.png",
+        "/assets/images/catalogue/Servicio.png",
         "/assets/images/flags/TR.svg",
         "/assets/images/flags/US.svg",
         "/assets/images/flags/where-to-find-other-flags.txt",
@@ -178,7 +183,7 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/113.f2a063a90fac7bbd.js": "8d30fd72a297c132ff36bcf0fb88718f737fa489",
+    "/113.9c18d2579006851d.js": "273782f19ba18f7132f65a774445c8b59227dab7",
     "/250.52ca5f57acb0321d.js": "79527855325fb960634af8895e36c1ad063d3590",
     "/268.b60ebfda6625c79b.js": "52418c76ebf54f66ac7b09dfbb9304c83a7424e6",
     "/291.8cd4aef7225f22cb.js": "9931c5138ca3d568e53c6248993ccc29f1e41841",
@@ -196,7 +201,7 @@
     "/883.b2c62cf77f5e8969.js": "44d4c53ab53148e3296cfd84cbf478e347200b6d",
     "/890.8ce1b4ed94c2ad04.js": "1e0a1023b56172e17ee0fbd428448662d2cd4ea3",
     "/917.9e69fbe9e8f67790.js": "735821331e2fb03cfd7b0f0e83b4837900294622",
-    "/928.2b8c2017c1b2f03a.js": "0c4da86d220d8042ce631550e15231ba386aa593",
+    "/928.3c1512aeb1e0bb25.js": "29249a370edb9ba66aed8df8751a3aa6c518fb9c",
     "/941.249b6d9fc0cb8cd8.js": "8fab80edb5ce0893524d3c68dccfc06090bfed00",
     "/955.3be68c3194645d55.js": "c73025031e76969399d3fff6fe064a34cbf75dc4",
     "/957.696b452bd670a901.js": "9176117cfacdb6bd3753e09283f11f5e97f1d032",
@@ -271,6 +276,11 @@
     "/assets/images/avatars/male-18.jpg": "b22a5060d2d15ecf4b418f216721e85b50e5b7c9",
     "/assets/images/avatars/male-19.jpg": "40d82030f221824087a9434a7243391868734c8a",
     "/assets/images/avatars/male-20.jpg": "c53a5b93e630697e6de0a3f74c91f636efb93626",
+    "/assets/images/catalogue/Logo.png": "820f7abdba673c6eedc2fd89d181788be2589390",
+    "/assets/images/catalogue/Negocio.jpg": "d3638de73ce70f70e972a20e242d37b03f8d97e9",
+    "/assets/images/catalogue/NotFound.png": "61dc1b0829224c614e0ef4b773dacda7a4fec7d6",
+    "/assets/images/catalogue/Producto.png": "304ca077b1674c4eda511dcd33976f446c84dc65",
+    "/assets/images/catalogue/Servicio.png": "a9be2ca793eb07a370d26c39a348fc0decfb7ce7",
     "/assets/images/flags/TR.svg": "becd497a03a546c6237b76c29d161cd44908d51c",
     "/assets/images/flags/US.svg": "bb95bbc851f5e21fd158897c7b8211a92ff776ee",
     "/assets/images/flags/where-to-find-other-flags.txt": "69014fce77499cf2a5fdf2f35b9d91bd143ea4ef",
@@ -322,12 +332,12 @@
     "/assets/styles/splash-screen.css": "d46f1196329796cbf3f085d7ae34dfaf9375fe34",
     "/common.e5cd01ea9d6beaf7.js": "499632209c11539c2e455b769cd88839ebc8a30e",
     "/favicon.ico": "effd34fbb4d1cb18eee2af371ea7f7c2ad3c688f",
-    "/index.html": "9d4942b0b65041a4a7d44bd5dee4bab827389813",
+    "/index.html": "b0e077bf92f2698843f1651beb9a4259fe3a06a2",
     "/main.c9e0510732b76d1e.js": "d9cf5f2e0082c4c8fcdf59a852d030e7492477bf",
     "/manifest.webmanifest": "1828ef648960d939fb6e55ac9cee63ac55019301",
     "/polyfills.297d62a17127de3a.js": "22150417d62046fd01b3604d7dbfefd4ab15906e",
-    "/runtime.2943c98d39bbf358.js": "04ca0aed5dc9ee2493eafe751fb12f83ef9a159e",
-    "/styles.03c8aeefd7a6cbc0.css": "29e7b839cedf9f04e71b9564d803aebadc2f32af"
+    "/runtime.06f5f198561aa743.js": "74fc77cefe84ff288871987df5f622e048a6f25c",
+    "/styles.62ee2fd68e28f271.css": "cdfc6196bb7231e483c83ae74813d1191ed26596"
   },
   "navigationUrls": [
     {
